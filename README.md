@@ -1,2 +1,1 @@
-# Maths-algorithm
-Contains various important maths algorithms
+Contains various important maths algorithms, 
